@@ -9,6 +9,7 @@
     <item drawable="almaconnect" />
     <item drawable="amongus" />
     <item drawable="ar_zone" />
+    <item drawable="ardoodle" />
     <item drawable="arudito" />
     <item drawable="assistant" />
     <item drawable="astrofy" />
@@ -75,6 +76,7 @@
     <item drawable="gaminghub" />
     <item drawable="gboard" />
     <item drawable="geekbench6" />
+    <item drawable="gemini" />
     <item drawable="github" />
     <item drawable="gmail" />
     <item drawable="goodguardians" />
@@ -131,6 +133,7 @@
     <item drawable="miremote" />
     <item drawable="moodle" />
     <item drawable="ms_launcher" />
+    <item drawable="msauthenticator" />
     <item drawable="music" />
     <item drawable="music_2" />
     <item drawable="mygalaxy" />
@@ -145,8 +148,10 @@
     <item drawable="novaprime" />
     <item drawable="nrfconnect" />
     <item drawable="nytgames" />
+    <item drawable="nytgames_2" />
     <item drawable="office" />
     <item drawable="office_2" />
+    <item drawable="ola" />
     <item drawable="onedrive" />
     <item drawable="onefootball" />
     <item drawable="onehandop" />
@@ -174,10 +179,13 @@
     <item drawable="reddit" />
     <item drawable="reddit_2" />
     <item drawable="reminder" />
+    <item drawable="revanced" />
     <item drawable="rewards" />
+    <item drawable="rsa" />
     <item drawable="sai" />
     <item drawable="samsung_health" />
     <item drawable="samsungpass" />
+    <item drawable="samsungwallet" />
     <item drawable="scanner" />
     <item drawable="schoolplanner" />
     <item drawable="screenrec" />
@@ -201,6 +209,7 @@
     <item drawable="snapchat_3" />
     <item drawable="snapchat_4" />
     <item drawable="sofascore" />
+    <item drawable="sonyliv" />
     <item drawable="soundassistant" />
     <item drawable="spacedesk" />
     <item drawable="spaceflight" />
